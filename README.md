@@ -3,4 +3,4 @@
 
 
 <p align="center">
-  <img alt="GitHub language" count https://github.com/LucasGabryellll/NLW-2-Proffy/blob/master/proffy.png>
+  <img alt="GitHub language" count src=https://github.com/LucasGabryellll/NLW-2-Proffy/blob/master/proffy.png>
